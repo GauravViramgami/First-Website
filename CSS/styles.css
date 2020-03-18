@@ -40,18 +40,18 @@ p {
 }
 .asteroid {
   position: absolute;
-  left: 300px;
+  left: 15%;
   bottom: 300px;
 }
 .black-hole {
   position: absolute;
-  right: 300px;
+  right: 20%;
   bottom: 100px;
 }
 .comet {
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 15%;
 }
 .profile {
   padding-top: 50px;
