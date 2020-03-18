@@ -41,7 +41,7 @@ p {
 .asteroid {
   position: absolute;
   left: 5%;
-  bottom: 300px;
+  bottom: 200px;
 }
 .black-hole {
   position: absolute;
